@@ -2,7 +2,7 @@
 
 // The dependency chain will be as follows:
 //                  JSONEncoder
-// ModelExample        |
+// ModelExample         |
 //      |       ViewExample
 //      |         |
 //      \__  _____/
